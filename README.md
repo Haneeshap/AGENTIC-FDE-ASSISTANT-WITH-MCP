@@ -1,4 +1,4 @@
-# Day 20-22: Agentic FDE Assistant
+# Agentic FDE Assistant
 
 ## Overview
 This project builds upon the Enterprise RAG 15 dashboards to create an Agentic FDE Assistant with MCP (Model Context Protocol) integration. The assistant provides 5 integrated tools (Jira, GitHub, SQL, Slack, Notion) with permission-based access, metrics tracking, and audit logging.
